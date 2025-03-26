@@ -1,6 +1,6 @@
 # SauceDemo Playwright Test
 
-An automated test suite for the SauceDemo sample e-commerce website using Playwright for browser automation.
+An automated test suite that uses the ZeroStep AI agent on the SauceDemo sample e-commerce website using Playwright.
 
 ## Features
 
